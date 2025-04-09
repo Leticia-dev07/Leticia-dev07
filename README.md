@@ -3,7 +3,7 @@
 Eu sou <strong>Leticia</strong>, <strong>estudante de Analise e Desenvolvimento de Sistemas</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>python</strong> 
-- 💬 Pergunte-me sobre: <strong>programadora nas horas vagas </strong>
+- 💬 Pergunte-me sobre: <strong>programação, games e livros (nas horas vagas) </strong>
 - 📣 Nós podemos falar em: <strong>Portugues Nativo, English-Beginner</strong>
 
 <div align="center">
