@@ -2,7 +2,7 @@
 
 Eu sou <strong>Leticia</strong>, <strong>estudante de Analise e Desenvolvimento de Sistemas</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python, HTML, CSS e Javascript</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Python, C#, .net, Banco de dados, Mysql, Git e Github, Tecnologias em desenvolvimento: HTML, CSS e Javascript</strong> 
 - 💬 Pergunte-me sobre: <strong>programação, games e livros (nas horas vagas) </strong>
 - 📣 Nós podemos falar em: <strong>Portugues Nativo, English-Beginner</strong>
 
