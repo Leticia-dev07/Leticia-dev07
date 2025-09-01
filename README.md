@@ -1,6 +1,6 @@
 # [Olá Bem vindo!] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Eu sou <strong>Leticia</strong>, <strong>estudante de Analise e Desenvolvimento de Sistemas</strong> 👨🏻‍💻 
+ <h2> Eu sou <strong>Leticia</strong>,<strong>estudante de Analise e Desenvolvimento de Sistemas</strong>  👨🏻‍💻 </h2> 
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Eu sou <strong>Leticia</strong>, <strong>estudante de Analise e Desenvolvimento 
    <td width="300px" align="center" valign="top">
         <h2>🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
      <p>
-           Hello! My name is Letícia, and I'm a Systems Analysis and Development student at Senac Pernambuco.
+           Hello! My name is Leticia, and I'm a Systems Analysis and Development student at Senac Pernambuco.
        I'm passionate about technology and constantly evolving. I focus on back-end development, but I'm also interested in becoming a full-stack developer.
        I seek opportunities to apply my knowledge, learn from new challenges, and grow in the IT field. 
        I love programming and learning new technologies, especially C#, Python, and web development. I'm also passionate about pets and technology!
