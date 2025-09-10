@@ -50,8 +50,9 @@
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+  <a href="mailto:leticia.dev.paz@gmail.com?subject=Estou a disposição neste email profissional. Escreva-me uma mensagem!&body=Olá! Aqui quem fala é Leticia, caro(a) Recruiter/Headhunter. Estou à disposição para respondê-los sobre oportunidades ou algo relacionado ao ambiente tech." alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
+</a>
 
   <a href="www.linkedin.com/in/leticia-gabrielle-034b80327" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
