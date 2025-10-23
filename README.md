@@ -23,7 +23,7 @@
            Hello! My name is Leticia, and I'm a Systems Analysis and Development student at Senac Pernambuco.
        I'm passionate about technology and constantly evolving. I focus on back-end development, but I'm also interested in becoming a full-stack developer.
        I seek opportunities to apply my knowledge, learn from new challenges, and grow in the IT field. 
-       I love programming and learning new technologies, especially C#, Python, and web development. I'm also passionate about pets and technology!
+       I love programming and learning new technologies, especially C#, Java e Python, and web development. I'm also passionate about pets and technology!
         </p>
       </td>
     </tr>
